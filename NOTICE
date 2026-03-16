@@ -1,0 +1,10 @@
+SMTL
+Copyright 2026 OPPO.
+
+This software contains code derived from the following projects.
+1. verl (https://github.com/verl-project/verl)
+Copyright 2023-2024 Bytedance Ltd. and/or its affiliates 
+
+2. smolagents（https://github.com/huggingface/smolagents）
+
+3. autogen (https://github.com/microsoft/autogen)
